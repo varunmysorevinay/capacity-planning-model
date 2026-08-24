@@ -1,0 +1,5 @@
+product,units,batch_size
+TAMPER-A,24,4
+TAMPER-B,16,2
+GRINDER-C,12,3
+REGULATOR-D,30,5
