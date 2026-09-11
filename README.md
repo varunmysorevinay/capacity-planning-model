@@ -167,7 +167,7 @@ python -m unittest discover -s tests -v
 
 **Varun Mysore Vinay** — Manufacturing Engineer
 
-Portfolio and case studies: **[varunmysorevinay-pixel.github.io](https://varunmysorevinay-pixel.github.io)**
+Portfolio and case studies: **[varunmysorevinay.github.io](https://varunmysorevinay.github.io)**
 [LinkedIn](https://www.linkedin.com/in/varunmysorevinay) · varunmysorevinay@gmail.com
 
 ## License
